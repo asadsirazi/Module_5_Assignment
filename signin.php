@@ -113,6 +113,12 @@
                                 <button class="btn btn-primary shadow-none text-white w-100 fs-5" type="submit" name="signin">Sign In</button>
                             </div>
 
+
+                            <div class="col-12 mt-5">
+                                <p class="btn btn-primary shadow-none text-white w-100 fs-5">AdminUserName: asad <br> AdminEmail: asad@gmail.com <br> AdminPassword: admin </p>
+                            </div>
+                            
+
                             <div class="col-6 mt-5">
                                 <p class="text-center">Forgot Password? <a href="#" class="text-decoration-none fw-bold">Find</a></p>
                             </div>
