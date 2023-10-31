@@ -1,7 +1,7 @@
 <!-- PHP Code Start -->
 <?php
   /*-- Header Start --*/
-    include("includes/header.php");
+    include("header.php");
   /*-- Header End --*/
 
   /*-- Getting file data as array --*/
@@ -150,6 +150,6 @@
 
 <!-- Footer Start -->
 <?php
-    include("includes/footer.php");
+    include("footer.php");
 ?>
 <!-- Footer End -->
