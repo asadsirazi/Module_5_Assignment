@@ -13,7 +13,7 @@
     }
 
     /*-- Procedure with file --*/
-    $filename = "C:/xampp/htdocs/ostad_php_laravel_assignments/Module_5/datafile/user.txt";
+    $filename = "user.txt";
     $fp = fopen($filename, "a+");
 
     $message = "";
